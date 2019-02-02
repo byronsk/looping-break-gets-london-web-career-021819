@@ -10,5 +10,3 @@ end
 end
 
 levitation_quiz
-
-
